@@ -1,0 +1,2 @@
+# mp5-themarathon
+A web application that tracks the names and timings from all the runners in a marathon and offers a functionality to display the runner who made it the fastest to the finishing line. The endpoints /runners and /winner will be created. A post with a Runner to /runners will store it in the system. A get to /runners will display all of them. A get to /winner will display the winner. An app for integration testing will be provided.
